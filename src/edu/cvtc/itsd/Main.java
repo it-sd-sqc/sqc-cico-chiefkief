@@ -78,7 +78,7 @@ public class Main {
           //not an int, do nothing
           stringToAdd = "";
         }
-        
+
         super.replace(fb, offset, lengthToDelete, stringToAdd, attr);
       }
       else {
