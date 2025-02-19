@@ -69,3 +69,7 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 Results: Please show your card to staff to validate
 Expected results: "non-numerical input should be ignored"
 
+## test steps Ticket 401
+1. build and run CiCo
+2. enter "abcd" into card field
+Results: characters didnt show up in field when typed
