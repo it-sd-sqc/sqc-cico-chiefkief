@@ -73,3 +73,19 @@ Expected results: "non-numerical input should be ignored"
 1. build and run CiCo
 2. enter "abcd" into card field
 Results: characters didnt show up in field when typed
+
+# Module 5, Ticket 501
+add a back button so you dont need to wait for the timeout.
+## test 1
+enter card information
+click button
+directed to screen, shows name and check in status
+goes back to first screen after 10 seconds
+
+## added back button to status page
+## back button test
+enter card information
+click button
+directed to screen, shows name and check in status and back button
+click back button
+instantly directed to start page.
