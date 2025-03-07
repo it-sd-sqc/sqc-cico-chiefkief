@@ -89,3 +89,5 @@ click button
 directed to screen, shows name and check in status and back button
 click back button
 instantly directed to start page.
+
+## 
